@@ -1,0 +1,32 @@
+# created by virtualenv automatically
+
+# Python
+*.pyc
+*~
+__pycache__
+Lib
+Scripts
+
+# Env
+.env
+myvenv/
+venv/
+pyvenv.cfg
+
+# Database
+db.sqlite3
+
+# Static folder at project root
+/static/
+
+# Windows
+Thumbs.db*
+ehthumbs*.db
+desktop.ini
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio
+.vscode/
+.history/
+*.code-workspace
